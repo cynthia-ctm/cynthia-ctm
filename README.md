@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cynthia-ctm
 - 
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning python
 - 
 <!---
 cynthia-ctm/cynthia-ctm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
